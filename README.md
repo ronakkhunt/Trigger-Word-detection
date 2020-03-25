@@ -1,0 +1,1 @@
+Your own Trigger word, like "Jarvis"
